@@ -13,7 +13,7 @@ const artists = [
     tracks: [
       ["Lover", "MoonChild Era", "3:07"],
       ["Born to Shine", "G.O.A.T.", "3:34"],
-      ["Hass Hass", "Hass Hass", "2:33"],
+      ["Hass Has", "Hass Hass", "2:33"],
       ["Naina", "Crew", "3:00"],
     ],
   },
